@@ -34,7 +34,7 @@ This section acts as a space for me to jot down collections of thoughts that are
 ## Feedback? Questions?
 
 
-TODO: Link a mailto here?
+[Send me an email!](mailto:davidaleung+wiki@gmail.com?subject=Wiki Feedback)
 
 ## Surprise!
 
