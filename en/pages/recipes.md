@@ -2,13 +2,15 @@
 
 ## Favourites
 
-* [Chicken Parm Supreme](https://www.reddit.com/r/GifRecipes/comments/7eb695/chicken_parma_supreme/)
+* [Chicken Parm Supreme](recipe-pages/chicken-parm-supreme.md)
 
-## Next to try
+## Main Courses
 
-* [Parma Ham Carbonara](https://www.reddit.com/r/GifRecipes/comments/dbag7k/parma_ham_carbonara/)
+* [Chicken Parm Supreme](recipe-pages/chicken-parm-supreme.md)
 
 ## Coming soon!
+
+* [Parma Ham Carbonara](https://www.reddit.com/r/GifRecipes/comments/dbag7k/parma_ham_carbonara/)
 
 * [Bacon, Broccoli, and Chicken Pasta](https://www.reddit.com/r/GifRecipes/comments/emehcc/bacon_broccoli_and_chicken_pasta/)
 
